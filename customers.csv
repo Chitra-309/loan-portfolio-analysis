@@ -1,0 +1,11 @@
+customer_id,age,gender,city,state,credit_score
+1,25,Male,Mumbai,MH,720
+2,32,Female,Pune,MH,650
+3,45,Male,Delhi,DL,580
+4,29,Female,Bangalore,KA,690
+5,40,Male,Hyderabad,TS,610
+6,36,Female,Mumbai,MH,740
+7,50,Male,Pune,MH,560
+8,27,Female,Delhi,DL,710
+9,34,Male,Bangalore,KA,680
+10,48,Female,Hyderabad,TS,590
